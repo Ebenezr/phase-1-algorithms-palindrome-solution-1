@@ -13,6 +13,7 @@ function isPalindrome(word) {
   2. compare the reversed string to the original string
   3. return true if they are the same
   4. return false if they are not the same
+  
 
 */
 
